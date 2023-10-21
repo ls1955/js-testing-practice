@@ -4,7 +4,8 @@
   "description": "Part of the [The Odin Project's curriculum](https://www.theodinproject.com/lessons/javascript-testing-practice) to get familiar with TDD.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch test/*.test.js"
   },
   "repository": {
     "type": "git",
