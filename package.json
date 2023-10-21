@@ -1,0 +1,24 @@
+{
+  "name": "js-testing-practice",
+  "version": "1.0.0",
+  "description": "Part of the [The Odin Project's curriculum](https://www.theodinproject.com/lessons/javascript-testing-practice) to get familiar with TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ls1955/js-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ls1955/js-testing-practice/issues"
+  },
+  "homepage": "https://github.com/ls1955/js-testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0"
+  }
+}
