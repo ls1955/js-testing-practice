@@ -12,7 +12,7 @@ test("capitalize of one downcase word", () => {
   expect(capitalize("tuna")).toBe("Tuna");
 });
 
-test("capitalize of a irregular case word", () => {
+test("capitalize of an irregular case word", () => {
   expect(capitalize("tUNa")).toBe("Tuna");
 });
 
